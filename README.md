@@ -6,4 +6,4 @@ when you start to doubt yourself double down on the problem, go into a new topic
 -![growth mindset](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 -[Class 01](class-01.md)
 -[class 02](Class-02.md)
--[class 02](Class-03.md)
+-[class 03](Class-03.md)
