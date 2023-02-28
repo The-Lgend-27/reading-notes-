@@ -1,5 +1,6 @@
 # reading-notes-
-demo for setting up reading notes
+Hey, my name is Tarik and this is my reading notes section for the DeltaV coding 102 course. Also this is my Github profile if yiu want to check it out!
+## Table of contents
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
 - [Class 03](class-03.md)
