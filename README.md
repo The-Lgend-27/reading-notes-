@@ -1,5 +1,5 @@
 # reading-notes-
-Hey, my name is Tarik and this is my reading notes section for the DeltaV coding 102 course. Also this is my Github profile if yiu want to check it out!
+Hey, my name is Tarik and this is my reading notes section for the DeltaV coding 102 course. Also this is my Github profile if you want to check it out! [Github Profile](https://github.com/The-Lgend-27)
 ## Table of contents
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
