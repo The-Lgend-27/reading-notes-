@@ -3,9 +3,9 @@
 
 
 - 1.What is Markdown?
-  - Markdown is a leightweight version of Markup designed for Github 
+  - Markdown is a lightweight version of Markup designed for GitHub 
 - 2.Why do we use Markdown?
-  - we use markdown because it is debatebly the most universal coding languages to use. Markdown can be used for almost anything and is compatible with almost any application. It can be used on any device running any opperating system and is completly future proof.
+  - we use markdown because it is debatably the most universal coding languages to use. Markdown can be used for almost anything and is compatible with almost any application. It can be used on any device running any operating system and is completely future proof.
 - 3.What symbol will create a heading in Markdown?
   - "#"
 - 4.How many do you need to create the largest heading?
