@@ -15,6 +15,6 @@
 - 6.When making text bold or italicized for emphasis, it is best practice to use which symbol?
   - to bold a text you put two "*" before and after your text
 - 7.How do you create a link with Markdown?
-  - the Line of code will be "[name of link](the URL of link)" and will end up looking like this. [name of link](the URL of link)
+  - the Line of code will be ``[name of link](the URL of link)`` and will end up looking like this. [name of link](the URL of link)
 - 8.What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
   - the three symbols used are asterisk(*), a hyphen(-), or plus sign(+) 
