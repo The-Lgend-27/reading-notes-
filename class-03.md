@@ -12,7 +12,7 @@ Class-03
 5. What is the command to send your changed files to Github?
     - git push
 
-    ## Table of contents
+## Table of contents
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
 - [Class 03](class-03.md)
