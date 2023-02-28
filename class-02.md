@@ -18,7 +18,7 @@ Class-02
   - cd projects
     - changes the directory you are currently in into "projects"
   - mkdir new-project
-    - makes a new directory called "new-project"
+    - makes a new directory called "new-project" inside of "projects"
   - touch new-project/newfile.md
     - creates a new file inside the "new-project" directory
   - cd ..
