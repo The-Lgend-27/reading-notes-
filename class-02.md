@@ -1,4 +1,3 @@
-Class-02
 # reading
 
 
